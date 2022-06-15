@@ -1,0 +1,31 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Eat & Run",
+            "description": "Eat & Run: My Unlikely Journey to Ultramarathon Greatness is a 2012 autobiography by the ultramarathon champion Scott Jurek and Steve Friedman. It was published by Houghton Mifflin Harcourt on June 5, 2012.",
+            "likes": 0,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71XJTD4o1gL.jpg"
+        }
+    ],
+    "reviews": [
+        {
+            "id": 1,
+            "bookId": 1,
+            "title": "GREAT READ!!",
+            "content": "Loved the book! Started eating vegan after and I feel amazing!"
+        },
+        {
+            "id": 2,
+            "bookId": 1,
+            "title": "running is dumb",
+            "content": "book was stupid AF.  running sucks. eat more meat!"
+        },
+        {
+            "id": 3,
+            "bookId": 1,
+            "title": "Scott Jurek is the man!!",
+            "content": "book was very inspiring loved hearing more about Scott's life!!"
+        }
+    ]
+}

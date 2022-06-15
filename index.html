@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="./index.js" defer></script>
+    <link rel="stylesheet" href="./styles.css" />
+    <title>Book Reviewer</title>
+  </head>
+  <body>
+    <h2>Welcome to the Book Reviewer</h2>
+    <div id="book-info">
+      <h3 id="book-title">Book Title</h3>
+      <img
+        src="https://bookstoreromanceday.org/wp-content/uploads/2020/08/book-cover-placeholder.png"
+      />
+      <p id="book-description">Book Description</p>
+      <div id="likes">
+        <button id="like-button">Like</button>
+        <p id="book-likes"># of likes here ❤️</p>
+      </div>
+      <div id="book-reviews">
+        <h3>Book Reviews:</h3>
+        <!-- book reviews go here! -->
+      </div>
+      <form class="new-review">
+        <label>Title:</label>
+        <input type="text" class="review-title" />
+        <br />
+        <label>Content:</label>
+        <input type="text" class="review-content" />
+        <br />
+        <input type="submit" value="Review Book" />
+      </form>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,16 @@
+#book-info {
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+#likes {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
