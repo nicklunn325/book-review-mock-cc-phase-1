@@ -1,6 +1,7 @@
 # Book Review Mock Code Challenge
 
-Begin by running `npm install`, then start your json server with the command `json-server --watch db.json --routes routes.json`.
+Begin by running `npm install`
+Then start your json server with the command `json-server --watch db.json --routes routes.json`
 
 ## Deliverables
 
