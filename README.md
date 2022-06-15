@@ -5,7 +5,7 @@
 
 ## Deliverables
 
-1. Display the book cover recieved from the server, with its title, description, likes and reviews when the page loads. Use the endpoint `/books/1` to retrieve the data for the book along with its reviews.
+1. Display the book cover recieved from the server, with its title, description, likes, and iterate over reviews and add them to book reviews div when the page loads. Use the endpoint `/books/1` to retrieve the data for the book along with its reviews.
 
 ```
 GET /books/1
